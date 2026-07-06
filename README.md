@@ -82,7 +82,7 @@ The project answers the following business questions:
 
 # 📷 Dashboard Preview
 
-![Retail Sales Dashboard](RetailSalesAnalysisDashboardScreenshot.png)
+![Retail Sales Dashboard](Retail%20Sales%20Analysis%20Dashboard%20screenshot.png)
 
 ---
 
