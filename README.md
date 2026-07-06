@@ -132,7 +132,26 @@ Potential future enhancements include:
 - Regional Sales Analysis
 - Inventory Performance Dashboard
 
+## What I Learned
+
+This project strengthened my understanding of:
+
+- Writing SQL queries to answer business questions.
+- Joining multiple tables using INNER JOIN.
+- Using aggregate functions such as COUNT() and SUM().
+- Grouping and sorting data with GROUP BY and ORDER BY.
+- Creating DAX measures in Power BI.
+- Designing dashboards that communicate business insights.
+- Documenting an end-to-end analytics project using GitHub.
+
 ---
+## Dataset
+
+Source:
+
+https://www.kaggle.com/datasets/gabrielsantello/wholesale-and-retail-orders-dataset
+
+The dataset contains retail order information and product details used to perform SQL analysis and build an interactive Power BI dashboard.
 
 ## 👤 Author
 
